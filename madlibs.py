@@ -10,7 +10,7 @@ import random
 # - Then commit your changes and open a pull request!
 
 # Feel free to add a new adjective!
-adjectives = ["brilliant", "overcaffeinated"]
+adjectives = ["brilliant", "overcaffeinated","amazing"]
 
 # Add a new type of noun (people, AI terms, Duke references, etc.)
 nouns = ["data scientist", "Blue Devil"]
